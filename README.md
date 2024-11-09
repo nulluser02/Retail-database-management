@@ -52,8 +52,3 @@ Attributes:  Group_ID, Group_Name
 
 ⇾ Review-Reviews are the feedback given to the product by customers.
 Attributes: Quality, Defect%, Review_ID, Review_Date
-
-## Entity relationship diagram after normalisation
-
-![Alt text] (https://github.com/nulluser02/Retail-database-management/blob/main/ERD%20after%20normalisation.jpg)
-
